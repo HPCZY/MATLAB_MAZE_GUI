@@ -1,8 +1,10 @@
 # MATLAB_MAZE_GUI
-MATLAB编写的迷宫生成小程序（含算法和交互界面）
+
 
 **Bilibili UP: [今天不飞了](https://space.bilibili.com/330337755)**
-
+  [**如果代码对你有帮助，可以帮我点亮右上角的五角星，感谢**]
+  
+  
 
 ## 基本介绍
 MATLAB中编写的迷宫生成小程序，包含：
